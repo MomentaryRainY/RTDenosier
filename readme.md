@@ -1,5 +1,5 @@
 # RTDenisoer
-resource are from Games202
+resources are from Games202
 
 # Effect
 original  
