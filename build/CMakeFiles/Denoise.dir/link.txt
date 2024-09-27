@@ -1,0 +1,3 @@
+E:\Cmake\bin\cmake.exe -E rm -f CMakeFiles\Denoise.dir/objects.a
+E:\gcc\mingw64\bin\ar.exe qc CMakeFiles\Denoise.dir/objects.a @CMakeFiles\Denoise.dir\objects1.rsp
+E:\gcc\mingw64\bin\c++.exe  -fopenmp -Wl,--whole-archive CMakeFiles\Denoise.dir/objects.a -Wl,--no-whole-archive -o Denoise.exe -Wl,--out-implib,libDenoise.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Denoise.dir\linkLibs.rsp
